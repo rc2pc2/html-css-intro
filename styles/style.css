@@ -1,0 +1,52 @@
+body{
+    font-family: 'Roboto', Verdana, Geneva, Tahoma, sans-serif;
+    /* font-size: 12px; */
+    font-weight: 400;
+}
+
+h1,
+h2,
+h3,
+h4{
+    font-family: 'Young Serif', Georgia, Times, serif;
+    text-align: center;
+}
+
+p{
+    text-align: end;
+}
+
+
+div{
+    height: 150px;
+    font-size: 3rem;
+    /* border: 5px dashed rgb(255, 0, 0, 0.5); */
+}
+
+section{
+    font-size: 40px;
+}
+
+.text-blue{
+    color: blue;
+    /* text-decoration: underline; */
+}
+
+.post-title{
+    color: magenta;
+}
+
+
+.bg-violet{
+    background: rgb(238, 130, 238, .5);
+    width: 300px;
+    background-image: url('https://image.petmd.com/files/styles/863x625/public/2023-04/kitten-development.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-lime{
+    background: lime;
+    width: 350px;
+}
